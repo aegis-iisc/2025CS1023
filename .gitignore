@@ -1,0 +1,9 @@
+*.cmi
+*.native
+*.swp
+*.out
+*.log
+todo.md
+*.class
+
+**/_build/**
