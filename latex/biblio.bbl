@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+
+\bibitem{DUMMY:1}
+J.~Doe, {\em The Book without Title}.
+\newblock Dummy Publisher, 2100.
+
+\bibitem{don}
+D.~E. Knuth, {\em The art of computer programming, volume 1 (3rd ed.):
+  fundamental algorithms}.
+\newblock USA: Addison Wesley Longman Publishing Co., Inc., 1997.
+
+\end{thebibliography}
